@@ -1,6 +1,15 @@
-Thanks for downloading this template!
+Homespace - Property Listing Website
 
-Template Name: HomeSpace
-Template URL: https://bootstrapmade.com/homespace-bootstrap-real-estate-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Homespace is a simple and responsive property listing website built with HTML, CSS, Bootstrap, and JavaScript. It allows users to browse, search, and view property details in a clean and modern interface. The website is designed to showcase properties such as apartments, houses, and commercial spaces, making it ideal for real estate agencies or independent property owners.
+
+Features
+
+🏠 Responsive design using Bootstrap
+
+🔍 Property search and filtering
+
+📋 Property listing with images, prices, and details
+
+🎨 Clean UI with custom CSS styling
+
+⚡ Interactive elements powered by JavaScript
